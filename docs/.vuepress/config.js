@@ -1,4 +1,5 @@
 module.exports = {
+  title: "微微记账",
   dest: "./public",
   themeConfig: {
     navbar: true,
