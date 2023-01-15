@@ -42,6 +42,7 @@ module.exports = {
               "/assets/"
             ]
           },
+          "mult_book",
           "user_agreement",
           "privacy_policy"
         ]
