@@ -1,3 +1,8 @@
+/*
+ * @Author: moxiang
+ * @Date: 2023-01-11 16:58:58
+ * @LastEditors: moxiang
+ */
 module.exports = {
   title: "微微记账",
   dest: "./public",
@@ -38,7 +43,7 @@ module.exports = {
             ]
           },
           "user_agreement",
-          "privacy_policy",
+          "privacy_policy"
         ]
       }
     ]

@@ -1,10 +1,5 @@
-<!--
- * @Author: moxiang
- * @Date: 2023-01-11 18:32:41
- * @LastEditors: moxiang
--->
 # 隐私协议 (Privacy policy)
----
+
 作者: moxiang  
 最后更新时间：20223-01-15
 

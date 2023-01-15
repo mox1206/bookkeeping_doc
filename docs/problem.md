@@ -1,8 +1,3 @@
-<!--
- * @Author: moxiang
- * @Date: 2023-01-11 18:14:52
- * @LastEditors: moxiang
--->
 # 常见问题答疑
 ---
 ### 我该如何反馈问题？
