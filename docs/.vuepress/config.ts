@@ -11,6 +11,10 @@ export default defineUserConfig({
   dest: "./public",
   description: "微微记账应用文档",
   theme: defaultTheme({
+    docsDir: "docs",
+    repo: "mox1206/bookkeeping_doc",
+    lastUpdatedText: '上次更新',
+    editLinkText: "在Github上编辑",
     logo: "/assets/img/icon.png",
     contributors: false,
     sidebar: [
