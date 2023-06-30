@@ -16,6 +16,7 @@ export default defineUserConfig({
     lastUpdatedText: '上次更新',
     editLinkText: "在Github上编辑",
     logo: "/assets/img/icon.png",
+    editLink: false,
     contributors: false,
     sidebar: [
       "/",
