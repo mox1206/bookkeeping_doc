@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.moxiang.bookkeeping",
+        "sha256_cert_fingerprints":
+          ["AA:2A:F5:AE:99:EF:A8:6B:2F:9A:E2:D4:CB:1B:21:03:C7:FC:BC:00:D0:58:16:B8:09:10:03:AA:26:D7:A6:D7"]
+      }
+    }
+  ]
